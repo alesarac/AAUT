@@ -4,7 +4,7 @@ Esercitazioni del corso di Apprendimento Automatico
 
 ## Argomenti del Corso
 
-Il corso sarà suddiviso in diverse sezioni, ciascuna dedicata a un aspetto specifico dell'Apprendimento Automatico. Gli argomenti trattati includono:
+Il corso è suddiviso in diverse sezioni, ciascuna dedicata a un aspetto specifico dell'Apprendimento Automatico. Gli argomenti trattati includono:
 
 1. **Differenza tra Problema e Modello**: Comprenderemo la distinzione tra problemi di apprendimento automatico e i modelli utilizzati per risolverli.
 
