@@ -1,0 +1,5 @@
+Per il laboratorio su "Experiments design and statistical tests on results" ha aggiunto questa nota riguardo al lab di questo argomento:
+
+"Estendete l'esercizio (classification_twitter_emotions_loading_data_aa_20_21) sullo Jupyter Notebook aggiungendo al punto 2 un test statistico per determinare se le differenze osservate siano statisticamente significative tra i classificatori probabilistici sui testi di tipo Multivariato e Multinomiale."
+
+Poi "Estendetelo con l'applicazione del test della T-student sulle differenze di accuratezza osservate dalla cross-validation per i due modelli naive Bayes multivariato e multinomiale sui testi."

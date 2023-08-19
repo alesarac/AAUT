@@ -1,0 +1,9 @@
+Exercise n. 1 in Laboratory session on learning trees with sci kit learn:
+
+Modify the given Jupyter notebook on decision trees on Iris data and perform the following tasks:
+
+get an artificial inflation of some class in the training set by a given factor: 10 (weigh more the classes virginica e versicolor which are more difficult to discriminate). Learn the tree in these conditions.
+modify the weight of some classes (set to 10 the weights for misclassification between virginica into versicolor and vice versa) and learn the tree in these conditions. You should obtain similar results as for step 1.
+learn trees but avoid overfitting (by improving the error on the test set) tuning the parameters on: the minimum number of samples per leaf, max depth of the tree, min_impurity_decrease parameters, max leaf nodes, etc.
+build the confusion matrix of the created tree models on the test set and show them. 
+build the ROC curves (or coverage curves in coverage space) and plot them for each tree model you have created: for each model you have to build three curves, one for each class, considered in turn as the positive class.
